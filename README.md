@@ -1,2 +1,2 @@
 # Einstein_portfolio_website
-# Website Link : https://illustrious-pixie-2ab41d.netlify.app
+# Website Link : https://einstein-portfolio-website.netlify.app/
